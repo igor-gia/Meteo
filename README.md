@@ -1,6 +1,13 @@
 # ESP32 Project
 
-This project is designed for ESP32 using the Arduino IDE. It collects data from sensors and sends it via MQTT.
+## Description
+
+This project is designed to work with the **ESP32** and uses the built-in touchscreen display **ILI9341**. The project includes various features such as Wi-Fi connectivity, MQTT data transmission, and displaying information on the screen.
+
+**Used hardware:**
+- **Microcontroller board:** ESP32-2432S028 (ESP-WROOM-32 with integrated ILI9341 touchscreen display)
+- **Sensors:** BME280, SCD40  
+  The sensors are connected via the I2C interface.
 
 ## Features
 - Reads data from BME280 and SCD40 sensors.
@@ -65,7 +72,15 @@ If you find this project useful and would like to support its development, you c
 
 # Проект на ESP32
 
-Этот проект предназначен для работы с ESP32 и использует Arduino IDE. Он считывает данные с датчиков и отправляет их через MQTT.
+## Описание
+
+Этот проект предназначен для работы с **ESP32** и использует встроенный тач-скрин дисплей **ILI9341**. Проект включает в себя различные функции, такие как подключение к Wi-Fi, отправка данных через MQTT и отображение информации на экране.
+
+**Используемое оборудование:**
+- **Плата микроконтроллера:** ESP32-2432S028 (ESP-WROOM-32 с интегрированным тач-скрин дисплеем ILI9341)
+- **Датчики:** BME280, SCD40  
+  Датчики подключены через I2C интерфейс.
+
 
 ## Возможности
 - Чтение данных с датчиков BME280 и SCD40.
@@ -108,7 +123,7 @@ If you find this project useful and would like to support its development, you c
 Этот проект лицензирован по лицензии MIT — см. файл [LICENSE.md](LICENSE.md) для подробностей.
 
 ##  Поддержка
-Если вы находите этот проект полезным и хотите поддержать его разработку, вы можете пожертвовать через:
+Если вы находите этот проект полезным и хотите поддержать его разработку, вы можете сделать пожертвование любым из следующих способов:
 
 - **PayPal**: [gia@gia.org.ua] [Donate via PayPal](https://www.paypal.me)  
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/igorgimelfarb)  
