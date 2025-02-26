@@ -52,11 +52,15 @@ You can install these libraries directly from the Arduino Library Manager:
 This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Donations
-If you find this project useful and would like to support its development, you can donate via:
 
-PayPal: [gia@gia.org.ua]
+If you find this project useful and would like to support its development, you can donate via any of the following methods:
 
-Your support is greatly appreciated!
+- **PayPal**: [gia@gia.org.ua] [Donate via PayPal](https://www.paypal.me)  
+- **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/igorgimelfarb)  
+
+**Your support is greatly appreciated!**
+
+
 ---
 
 # Проект на ESP32
@@ -106,6 +110,8 @@ Your support is greatly appreciated!
 ##  Поддержка
 Если вы находите этот проект полезным и хотите поддержать его разработку, вы можете пожертвовать через:
 
-PayPal: [gia@gia.org.ua]
+- **PayPal**: [gia@gia.org.ua] [Donate via PayPal](https://www.paypal.me)  
+- **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/igorgimelfarb)  
+
 
 **Ваша поддержка будет очень ценна!**
