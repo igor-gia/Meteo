@@ -5,7 +5,7 @@
 This project is designed to work with the **ESP32** and uses the built-in touchscreen display **ILI9341**. The project includes various features such as Wi-Fi connectivity, MQTT data transmission, and displaying information on the screen.
 
 **Used hardware:**
-- **Microcontroller board:** ESP32-2432S028 (ESP-WROOM-32 with integrated ILI9341 touchscreen display)
+- **Microcontroller board:** ESP32-2432S028 aka Cheap Yellow Display (ESP-WROOM-32 with integrated ILI9341 touchscreen display)
 - **Sensors:**
     * [BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
     * [SCD40](https://sensirion.com/products/catalog/SCD40)
@@ -158,7 +158,7 @@ If you find this project useful and would like to support its development, you c
 Этот проект предназначен для работы с **ESP32** и использует встроенный тач-скрин дисплей **ILI9341**. Проект включает в себя различные функции, такие как подключение к Wi-Fi, отправка данных через MQTT и отображение информации на экране.
 
 **Используемое оборудование:**
-- **Плата микроконтроллера:** ESP32-2432S028 (ESP-WROOM-32 с интегрированным тач-скрин дисплеем ILI9341)
+- **Плата микроконтроллера:** ESP32-2432S028 также известная как Cheap Yellow Display (ESP-WROOM-32 с интегрированным тач-скрин дисплеем ILI9341)
 - **Датчики:**
     * [BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
     * [SCD40](https://sensirion.com/products/catalog/SCD40)
