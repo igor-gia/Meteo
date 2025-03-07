@@ -11,6 +11,8 @@ This project is designed to work with the **ESP32** and uses the built-in touchs
     * [SCD40](https://sensirion.com/products/catalog/SCD40)
 
   The sensors are connected via the I2C interface.
+  
+![assembled device](images/assembled.png)
 
 ## Features
 - Reads data from BME280 and SCD40 sensors.
@@ -126,6 +128,7 @@ I2C lines require pull-up resistors to operate correctly.
 
 > **Important:** When connecting I2C sensors, ensure an additional **10kΩ pull-up resistor** is installed between **GPIO22 (SCL) and +3.3V**.  
 
+![sensor board](images/sensors-board.png)
 
 ## Usage
 1. Once the code is uploaded, the device will try to connect to a pre-configured Wi-Fi network.
@@ -165,6 +168,7 @@ If you find this project useful and would like to support its development, you c
 
   Датчики подключены через I2C интерфейс.
 
+![Собранное устройство](images/assembled.png)
 
 ## Возможности
 - Чтение данных с датчиков BME280 и SCD40.
@@ -278,6 +282,7 @@ If you find this project useful and would like to support its development, you c
 
 > **Важно:** При подключении датчиков I2C убедитесь, что дополнительный **резистор подтяжки 10kΩ** установлен между **GPIO22 (SCL) и +3.3V**.
 
+![плата датчиков](images/sensors-board.png)
 
 ## Лицензия
 Этот проект лицензирован по лицензии MIT — см. файл [LICENSE.md](LICENSE.md) для подробностей.
